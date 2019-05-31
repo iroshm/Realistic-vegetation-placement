@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/heightmap.unity
+    guid: 2f9810df0c9157d4bbe43d244f87b8e9
+  - enabled: 1
+    path: Assets/Scenes/biomemap.unity
+    guid: 9ce93b50da30a1546a25294475a6799e
+  - enabled: 1
+    path: Assets/Scenes/heatmap.unity
+    guid: 6ed29257a6cccdd4585e566d4908f823
+  - enabled: 1
+    path: Assets/Scenes/moisturemap.unity
+    guid: 00800df6d2781e246a75b1ca3bf38d67
+  m_configObjects: {}
